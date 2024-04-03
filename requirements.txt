@@ -1,2 +1,5 @@
-streamlit 
-ffmpeg
+pandas
+numpy
+ffmpeg-python
+tqdm
+streamlit
